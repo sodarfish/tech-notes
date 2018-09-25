@@ -2,7 +2,7 @@
 
 
 ## Git learn 
-* https://www.cnblogs.com/schaepher/p/5561193.html [Schaepher]
+* https://www.cnblogs.com/schaepher/p/5561193.html [Git和Github简单教程 - Schaepher]
 * 猴子都能懂的Git入门 [https://backlog.com/git-tutorial/cn]
 
 ## Hexo
